@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  1 14:18:03 2023
-
-@author: Mohamad
-"""
-
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
